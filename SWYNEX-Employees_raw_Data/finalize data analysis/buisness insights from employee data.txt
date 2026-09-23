@@ -1,0 +1,76 @@
+EMPLOYEE DATA INSIGHTS – BUSINESS QUESTIONS & ANSWERS
+
+Q1. How many total employees are present in the organization?
+A1. There are 300 total employees in the dataset.
+
+Q2. What is the median age of employees?
+A2. The median employee age is 42 years.
+
+Q3. What percentage of employees are high performers?
+A3. 61.67% of employees are classified as high performers.
+
+Q4. What percentage of employees work remotely?
+A4. 41% of employees work remotely.
+
+Q5. What is the average salary of employees?
+A5. The overall average salary is approximately $60,000.
+
+Q6. Which department has the highest average salary?
+A6. The Unassigned department has the highest average salary at $67,838.
+
+Q7. Which department has the lowest average salary?
+A7. The Sales department has the lowest average salary at $56,801.
+
+Q8. What is the average salary in the Engineering department?
+A8. Engineering employees have an average salary of $60,124.
+
+Q9. What is the average salary in the Finance department?
+A9. Finance employees have an average salary of $58,996.
+
+Q10. What is the average salary in the HR department?
+A10. HR employees have an average salary of $61,638.
+
+Q11. What is the average salary in the Marketing department?
+A11. Marketing employees have an average salary of $60,967.
+
+Q12. Which department has the highest average performance rating?
+A12. Sales has the highest average performance rating at 3.8.
+
+Q13. Which departments have the lowest average performance rating?
+A13. HR and Unassigned have the lowest average rating at 3.3.
+
+Q14. What is the overall average performance rating?
+A14. The overall average performance rating is 3.6.
+
+Q15. Which department has a combination of the lowest salary and highest performance rating?
+A15. Sales has the lowest average salary ($56,801) while having the highest average performance rating (3.8).
+
+Q16. Which department has the highest salary but a relatively low performance rating?
+A16. The Unassigned department has the highest average salary ($67,838) but an average performance rating of 3.3.
+
+Q17. Which city has the highest number of employees?
+A17. Pune has the highest number of employees among the cities shown, with approximately 74 employees.
+
+Q18. Which city has the lowest number of employees?
+A18. Mumbai has the lowest number of employees among the cities shown, with approximately 50 employees.
+
+Q19. How are employees distributed across age groups?
+A19. The dashboard shows 121 employees in the 46–60 age group, 119 employees in the 31–45 age group, and 60 employees in the 18–30 age group.
+
+Q20. Which age group contains the largest number of employees?
+A20. The 46–60 age group is the largest, with 121 employees, representing approximately 40.33% of the workforce.
+
+Q21. Which age group contains the fewest employees?
+A21. The 18–30 age group is the smallest, with 60 employees, representing 20% of the workforce.
+
+Q22. What does the dashboard indicate about the workforce's age profile?
+A22. The workforce is concentrated in the 31–60 age range, with 240 of the 300 employees belonging to these two age groups.
+
+Q23. What business insight can be observed from remote work data?
+A23. Since 41% of employees work remotely, remote work represents a significant portion of the workforce.
+
+Q24. What is the overall business insight from the department salary and performance data?
+A24. Salary and performance do not appear to move uniformly across departments. For example, Sales has the highest average rating but the lowest average salary, while Unassigned has the highest average salary but a lower average rating.
+
+Q25. What is the overall conclusion from the dashboard?
+A25. The organization has 300 employees, a median age of 42 years, 61.67% high performers, 41% remote employees, and an average salary of approximately $60K. The dashboard also shows differences in salary, performance, age distribution, location, and remote-work patterns across the workforce.
